@@ -45,12 +45,12 @@ search hotels from an API file, mark locations on map
 calculate line regressions, r^values, p^values
 
 **Python Dependencies:**
-pandas
-hvplot
-matplotlib.pyplot
-numpy
-time
-spicy.stats
-json
-requests
-api_keys
+- pandas  
+- hvplot  
+- matplotlib.pyplot  
+- numpy  
+- time  
+- spicy.stats  
+- json  
+- requests  
+- api_keys  
