@@ -1,5 +1,4 @@
 # Module 6 Challenge - Python APIs
-Paul Schaefer 12/21/2024
 
 Python script in Jupiter notebook file, .ipynb
 
